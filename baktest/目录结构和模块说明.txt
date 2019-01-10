@@ -1,0 +1,27 @@
+src-->
+   assets----->配置目录
+	css----->
+	    base.css --------配置全局样式
+	icon-----> 存放图标样式
+   components--->组件目录
+	searchMsg 统计查询相关组件
+	   MsgChart.vue ----------列表展示数据
+	   MsgList.vue -----------图表展示数据	
+	Login.vue --------- 登入
+	Home.vue ---------- 首页
+	SubMenu.vue ------- 左边菜单栏
+	AiQuestion.vue ------------ 上下文配置
+	Application.vue ----------- 应用
+	ApplicationUpdate.vue ----------- 编辑更新应用
+	Chatmsg.vue ---------- 聊天记录查询
+	SearchMsg.vue --------- 统计查询
+    router ------->路由目录
+	index.js -------- 配置路由
+    uitls -------->工具包目录
+	filters.js ------- 根据后台返回的数据，用于过滤表单“关键词”	
+	getData.js -------- 挂载在vue对象的全局方法，用于获取后台接口数据
+	http.js ---------- 封装好的axios，用于发送请求
+	mixins.js -------- 混合，增加代码重用率
+	tool.js ---------- 常用函数集合，如格式化日期等		
+    main.js ------------入口主函数 用于导入各个js
+    vue.app ------------主vue组件，定义全局样式，全局方法

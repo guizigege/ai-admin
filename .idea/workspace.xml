@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64408db5-adae-41a7-9028-8574f350fbfb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="512122092">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="7" />
+          <entry key="js" value="93" />
+          <entry key="scss" value="7" />
+          <entry key="vue" value="142" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="7" />
+          <entry key="JavaScript" value="93" />
+          <entry key="SCSS" value="7" />
+          <entry key="Vue.js" value="142" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="15" />
+          <entry key="html" value="320" />
+          <entry key="js" value="1372" />
+          <entry key="scss" value="164" />
+          <entry key="vue" value="28489" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="15" />
+          <entry key="HTML" value="320" />
+          <entry key="JavaScript" value="1372" />
+          <entry key="SCSS" value="164" />
+          <entry key="Vue.js" value="28489" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/components/emoji/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding>
+                <element signature="e#502#1258#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/components/Chatmsg.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-select#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-input#0;n#div#1;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-input#0;n#div#2;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-select#0;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#2;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-input#0;n#div#2;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-input#0;n#div#3;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-input#0;n#div#4;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-select#0;n#div#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-select#0;n#div#1;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-select#0;n#div#2;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-date-picker#0;n#div#0;n#div#5;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-date-picker#0;n#div#1;n#div#5;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/components/AiQuestion.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="236" column="17" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/components/Application.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-810" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/components/SubMenu.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#el-menu#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/utils/tool.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6383" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/components/SearchMsg.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2052">
+              <caret line="145" column="28" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="28" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#0;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#1;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-table#0;n#div#1;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-table#0;n#div#1;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#7859#8762#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baktest/src/utils/http.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baktest/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>formatStartTime</find>
+      <find>value:&quot;&quot;,</find>
+      <find>rearPagesize</find>
+      <find>currentAppid</find>
+      <find>title</find>
+      <find>filter</find>
+      <find>msgData</find>
+      <find>draw</find>
+      <find>getApplication()</find>
+      <find>A</find>
+      <find>test</find>
+      <find>searchMoreDialog</find>
+      <find>currentAppi</find>
+      <find>toApp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>C</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/baktest" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/video/js/address.js" />
+        <option value="$USER_HOME$/Desktop/otherweb/js/wxShare0.js" />
+        <option value="$PROJECT_DIR$/test/src/components/Home.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/Client.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/NavHeader.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/Login.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/ApplicationUpdate.vue" />
+        <option value="$PROJECT_DIR$/test/src/utils/getData.js" />
+        <option value="$PROJECT_DIR$/test/src/utils/tool.js" />
+        <option value="$PROJECT_DIR$/test/src/utils/mixins.js" />
+        <option value="$PROJECT_DIR$/test/src/utils/filters.js" />
+        <option value="$PROJECT_DIR$/test/src/utils/draw.js" />
+        <option value="$PROJECT_DIR$/sysass/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/sysass/src/utils/configSassLoader.js" />
+        <option value="$PROJECT_DIR$/sysass/build/utils.js" />
+        <option value="$PROJECT_DIR$/sysass/src/assets/css/base.scss" />
+        <option value="$PROJECT_DIR$/sysass/src/components/SearchMsg.vue" />
+        <option value="$PROJECT_DIR$/sysass/src/assets/css/common.scss" />
+        <option value="$PROJECT_DIR$/sysass/src/App.vue" />
+        <option value="$PROJECT_DIR$/test/src/App.vue" />
+        <option value="$PROJECT_DIR$/test/build/utils.js" />
+        <option value="$PROJECT_DIR$/test/src/assets/css/base.css" />
+        <option value="$PROJECT_DIR$/test/src/components/MsgChart.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/MsgList.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/SearchMsg.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/searchMsg/MsgChart.vue" />
+        <option value="$PROJECT_DIR$/test/src/utils/http.js" />
+        <option value="$PROJECT_DIR$/test/src/assets/css/base.scss" />
+        <option value="$PROJECT_DIR$/baktest/src/components/Customer.vue" />
+        <option value="$PROJECT_DIR$/test/index.html" />
+        <option value="$PROJECT_DIR$/test/src/components/Application.vue" />
+        <option value="$PROJECT_DIR$/test/src/assets/css/element-variables.scss.css" />
+        <option value="$PROJECT_DIR$/test/src/main.js" />
+        <option value="$PROJECT_DIR$/test/src/assets/css/element-variables.scss" />
+        <option value="$PROJECT_DIR$/test/src/components/AiQuestion.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/Customer.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/Chatmsg.vue" />
+        <option value="$PROJECT_DIR$/baktest/src/components/searchMsg/MsgList.vue" />
+        <option value="$PROJECT_DIR$/test/config/index.js" />
+        <option value="$PROJECT_DIR$/baktest/src/utils/filters.js" />
+        <option value="$PROJECT_DIR$/test/src/components/SubMenu.vue" />
+        <option value="$PROJECT_DIR$/test/src/router/index.js" />
+        <option value="$PROJECT_DIR$/test/src/components/emoji/Emotion.vue" />
+        <option value="$PROJECT_DIR$/baktest/src/components/AiQuestion.vue" />
+        <option value="$PROJECT_DIR$/baktest/src/components/SearchMsg.vue" />
+        <option value="$PROJECT_DIR$/baktest/config/index.js" />
+        <option value="$PROJECT_DIR$/baktest/src/utils/http.js" />
+        <option value="$PROJECT_DIR$/test/src/components/emoji/index.vue" />
+        <option value="$PROJECT_DIR$/test/src/components/Chat.vue" />
+        <option value="$PROJECT_DIR$/baktest/src/components/Chatmsg.vue" />
+        <option value="$PROJECT_DIR$/baktest/src/components/SubMenu.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/baktest/node_modules" />
+    <handled-path value="$PROJECT_DIR$/test/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/baktest/package.json" />
+      <path value="$PROJECT_DIR$/test/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-6" />
+    <option name="y" value="15" />
+    <option name="width" value="1864" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ai_manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai_manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai_manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai_manage" type="462c0819:PsiDirectoryNode" />
+              <item name="baktest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai_manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai_manage" type="462c0819:PsiDirectoryNode" />
+              <item name="baktest" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai_manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai_manage" type="462c0819:PsiDirectoryNode" />
+              <item name="baktest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai_manage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ai_manage" type="462c0819:PsiDirectoryNode" />
+              <item name="baktest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ai_manage\test\src\components\searchMsg" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64408db5-adae-41a7-9028-8574f350fbfb" name="Default Changelist" comment="" />
+      <created>1545116556824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545116556824</updated>
+      <workItem from="1545116558037" duration="11059000" />
+      <workItem from="1545183590015" duration="22222000" />
+      <workItem from="1545286050890" duration="5527000" />
+      <workItem from="1545294666347" duration="2053000" />
+      <workItem from="1545298135225" duration="2515000" />
+      <workItem from="1545356448311" duration="9034000" />
+      <workItem from="1545372738144" duration="3894000" />
+      <workItem from="1545456020827" duration="10638000" />
+      <workItem from="1545615915593" duration="15071000" />
+      <workItem from="1545701914678" duration="5008000" />
+      <workItem from="1545789124008" duration="3653000" />
+      <workItem from="1545876679947" duration="4516000" />
+      <workItem from="1545890642431" duration="448000" />
+      <workItem from="1545892245435" duration="10970000" />
+      <workItem from="1545961075490" duration="530000" />
+      <workItem from="1545982510648" duration="5105000" />
+      <workItem from="1546051193069" duration="15041000" />
+      <workItem from="1546393225965" duration="21488000" />
+      <workItem from="1546479975922" duration="14207000" />
+      <workItem from="1546566671097" duration="12306000" />
+      <workItem from="1546651828648" duration="618000" />
+      <workItem from="1546672073505" duration="8274000" />
+      <workItem from="1546825755537" duration="16104000" />
+      <workItem from="1546911723108" duration="7509000" />
+      <workItem from="1546928396010" duration="13657000" />
+      <workItem from="1546998118041" duration="5048000" />
+      <workItem from="1547004353389" duration="4275000" />
+      <workItem from="1547018551933" duration="5000" />
+      <workItem from="1547022290149" duration="6699000" />
+      <workItem from="1547084705602" duration="13970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="251444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="15" width="1864" height="1084" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15115005" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sysass/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/sysass/src/components/AiQuestion.vue" />
+    <entry file="file://$PROJECT_DIR$/sysass/src/components/Application.vue" />
+    <entry file="file://$PROJECT_DIR$/sysass/src/components/ApplicationUpdate.vue" />
+    <entry file="file://$PROJECT_DIR$/sysass/src/components/SubMenu.vue" />
+    <entry file="file://$PROJECT_DIR$/sysass/build/utils.js" />
+    <entry file="file://$PROJECT_DIR$/test/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/searchMsg/MsgChart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2027">
+          <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/searchMsg/MsgList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/utils/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/ApplicationUpdate.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/searchMsg/MsgChart.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/NavHeader.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2603">
+          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/assets/css/element-variables.scss.css" />
+    <entry file="file://$PROJECT_DIR$/test/src/components/ApplicationUpdate.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="77" column="58" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/assets/css/element-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/assets/css/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/AiQuestion.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="157" column="26" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/NavHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/Home.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/Application.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/SearchMsg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3051">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/searchMsg/MsgList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/assets/css/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/utils/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/Customer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6102">
+          <caret line="226" column="1" selection-start-line="226" selection-start-column="1" selection-end-line="231" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#transition#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#transition#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/Customer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1917">
+          <caret line="71" selection-start-line="71" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/Chatmsg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4131">
+          <caret line="153" column="14" selection-start-line="153" selection-start-column="14" selection-end-line="153" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/SubMenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/Chat.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#emoji#0;n#transition#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2156#3004#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/emoji/Emotion.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/emoji/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#502#1258#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/SearchMsg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="145" column="28" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#0;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#1;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table#0;n#div#1;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#div#1;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#7859#8762#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/utils/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/Chatmsg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-select#0;n#div#0;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-input#0;n#div#1;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-input#0;n#div#2;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-select#0;n#div#3;n#div#2;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-input#0;n#div#2;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-input#0;n#div#3;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-input#0;n#div#4;n#div#3;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-select#0;n#div#0;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#div#1;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#div#2;n#div#4;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-date-picker#0;n#div#0;n#div#5;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-date-picker#0;n#div#1;n#div#5;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/SubMenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#el-menu#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/utils/tool.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/AiQuestion.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="236" column="17" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/src/components/Application.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baktest/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

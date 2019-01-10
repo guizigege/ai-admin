@@ -1,0 +1,7 @@
+$color:#10A6AB;
+$minor-color:#304156;
+@mixin set-position($left,$top){
+  position:absolute;
+  left:$left;
+  top:$top;
+}
